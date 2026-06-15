@@ -2,7 +2,7 @@
 
 ### Interactive Creative Canvas & Collaboration Platform
 
-[Live Demo](YOUR_LIVE_DEMO_LINK) • [Deployment](YOUR_DEPLOYMENT_LINK)
+• [Deployment Link](https://canvas-magma-website.vercel.app/)
 
 
 ## Screenshots
